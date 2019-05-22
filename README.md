@@ -12,3 +12,13 @@
 
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
+
+## Install
+```
+git clone https://github.com/coinvpn/v2ray.git  
+cd v2ray; chmod +x install.sh  
+sudo ./install.sh local  
+```
+
+## Feature
+This script allows BiTtorrent and accesses all domain except ad domain.
